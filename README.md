@@ -1,6 +1,8 @@
 # Y86-Processor
 Constructed a high-performance sequential and 5-stage pipeline processor using verilog-HDL. The processor is capable of running Y86-64 instructions.
 
+## File Structure : 
+
 ```bash
 |   README.md
 |   Report.pdf
